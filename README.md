@@ -1,5 +1,5 @@
 ## Hello,
-This is for my time series forecasting project.
+This is my time series forecasting project.
 
 ## Project Objective
 This group project aims to develop, evaluate, and present time series forecasting models. Each group will select an approved dataset and apply both:
